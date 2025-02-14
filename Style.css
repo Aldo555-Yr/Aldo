@@ -18,7 +18,7 @@ body
   width: 250px;
   height: 250px;
   left: 131px;
-  top: 60px;
+  top: 90px;
   border-radius: 20%;
   box-shadow: 1px 1px 60px #000;
 }
@@ -27,7 +27,7 @@ body
   position: relative;
   width: 250px;
   height: 250px;
-  top: 60px;
+  top: 90px;
   right: 119px;
   border-radius: 20%;
 }
