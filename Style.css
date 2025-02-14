@@ -18,7 +18,7 @@ body
   width: 250px;
   height: 250px;
   left: 131px;
-  top: 500px;
+  top: 100px;
   border-radius: 20%;
   box-shadow: 1px 1px 60px #000;
 }
@@ -27,8 +27,8 @@ body
   position: relative;
   width: 250px;
   height: 250px;
-  top: 500px;
-  right: 119px;
+  top: 100px;
+  right: 319px;
   border-radius: 20%;
 }
 .teks
